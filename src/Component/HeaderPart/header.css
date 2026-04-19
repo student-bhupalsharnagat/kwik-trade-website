@@ -1,0 +1,30 @@
+@media (max-width: 600px) {
+  .logo-img {
+    position: relative;
+    right: 200px;
+
+    bottom: 10px;
+  }
+  .img-container {
+    height: 10vh;
+  }
+
+  .logo-img {
+    height: 100px;
+    width: 100px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .logo-img {
+    position: relative;
+    right: 150px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .logo-img {
+    position: relative;
+    right: 220px;
+  }
+}

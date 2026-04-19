@@ -1,0 +1,13 @@
+@media (max-width:1400px) {
+    .offercontainer{
+        width: 92vw;
+    }
+    
+}
+
+@media(min-height:2544px){
+    .offercontainer{
+       /* max-width: 100vw; */
+       width: 45vw;
+    }
+}

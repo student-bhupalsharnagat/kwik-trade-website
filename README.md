@@ -23,23 +23,18 @@ Languages: HTML, CSS, JavaScript
 
 ## Screenshots
 
-<img width="1082" height="637" alt="Screenshot 2026-04-20 225410" src="https://github.com/user-attachments/assets/6abde679-7db9-4d09-bfda-146ca003b283" />
-<img width="1038" height="647" alt="Screenshot 2026-04-20 225400" src="https://github.com/user-attachments/assets/85762409-c190-45f3-86f8-44184787eb89" />
-<img width="971" height="641" alt="Screenshot 2026-04-20 225345" src="https://github.com/user-attachments/assets/8ffde7b7-3a4b-458a-849b-e67fd15dff71" />
+
+<img width="971" height="641" alt="Screenshot 2026-04-20 225345" src="https://github.com/user-attachments/assets/b491ad08-8ad6-42cb-acfc-af9c2daf9173" />
+
+<img width="1038" height="647" alt="Screenshot 2026-04-20 225400" src="https://github.com/user-attachments/assets/178223b9-1bbf-4a8f-a9aa-9a63a081631c" />
+
+<img width="1082" height="637" alt="Screenshot 2026-04-20 225410" src="https://github.com/user-attachments/assets/f2a4a2b4-4fa1-4331-9d87-2c6d41643bcc" />
 
 
 
+## Live Demo
 
-
-
-
-
-
-
-
-
-
-
+https://kwik-trade-website.vercel.app/
 
 
 

@@ -473,7 +473,7 @@ img {
     left: 130px;
     top:23px;
 
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .phone-input {
@@ -487,18 +487,27 @@ img {
   }
 
   .Otp-btn {
-    padding: 15px;
+    /* padding-left: 16px;
+    padding-right: 16px; */
+    padding-top: 3vw;
+    padding-bottom:3vw;
   }
 
   .floating-label {
     /* left: 75px; */
     left: 20px;
     top: 50px;
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
 @media (max-width: 480px) {
+
+.contact-container {
+    width: 38vw;
+  }
+
+
   .floating-label {
     /* left: 65px; */
     left: 20px;
@@ -514,12 +523,33 @@ img {
   .country-select select {
     font-size: 12px;
   }
+    .Otp-btn {
+     /* padding-left: 16px;
+    padding-right: 16px;  */
+    padding-top: 4.9vw;
+    padding-bottom: 4.9vw;
+  } 
 }
+
+
+
+
+
+
+
 
 @media (max-width: 360px) {
   .contact-container {
-    width: 80%;
+    width: 59%;
   }
+
+  .Otp-btn {
+    /* padding-left: 16px;
+    padding-right: 16px; */
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
 }
 
 @media (max-width: 300px) {
@@ -535,15 +565,29 @@ img {
     left: 110px;
   }
   .Otp-btn {
-    padding: 10px;
-    font-size: 14px;
+    padding-top: 2.7px;
+    padding-bottom: 2.7px;
+    font-size: 13px;
   }
+
+.floating-label.active {
+  top: -1px;
+  left: 12px;
+  font-size: 2px;
+  background: #000;
+  padding: 0 0px;
+}
+
+
+
 }
 
 @media (max-width: 250px) {
   .contact-container {
-    width: 50%;
-    height: 90px;
+    width: 70%;
+    min-height: 50px;
+    
+    
   }
 
   .floating-label {
@@ -554,11 +598,26 @@ img {
     padding: 0 5px;
   }
 
+   .floating-label.active {
+    font-weight: 100;
+    left: 20px;
+    font-size: 11px;
+    background: #000;
+    padding: 0 5px;
+  }
   .Otp-btn {
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 10px;
   }
 }
+
+
+
+
+
 
 @media (max-height: 2544px) {
   .signup-container {

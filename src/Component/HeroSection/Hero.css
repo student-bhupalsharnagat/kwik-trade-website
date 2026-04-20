@@ -62,13 +62,13 @@
   }
 }
 
-@media (min-height: 508px) {
+/* @media (min-height: 508px) {
   .video-wrapper {
     max-width: 50vw;
   }
   
   .video {
-    object-fit: cover;
+
     width: 100vw;
-  }
-}
+  } 
+} */
